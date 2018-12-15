@@ -31,6 +31,7 @@ The following OID examples pull the current MAC Address table from a router. Thi
 | OpenWrt | Chaos Calmer 15.05 | `1.3.6.1.2.1.4.22.1.2` |
 | TP-Link | Archer VR2600v |  `1.3.6.1.2.1.3.1.1.2.19.1` |
 | TP-Link | Archer VR600 | `1.3.6.1.2.1.3.1.1.2` |
+| TP-Link | EAP225 | `1.3.6.1.4.1.11863.10.1.1.2.1.2` |
 | EdgeRouter | Lite v1.9.0 | `1.3.6.1.2.1.4.22.1.2` |
 | Ruckus | ZoneDirector 9.13.3 | `1.3.6.1.4.1.25053.1.2.2.1.1.3.1.1.1.6` |
 | DD-WRT | unknown RouterOS version/model |  `1.3.6.1.2.1.4.22.1.2` |
